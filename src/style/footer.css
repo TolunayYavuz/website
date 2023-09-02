@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    background-color: brown;
+    padding: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.SocialMedia svg{
+    font-size: 48px;
+    color: white;
+    margin-right: 20px;
+}
+
+
+p{
+    font-size: 24px;
+    color: white;
+}
